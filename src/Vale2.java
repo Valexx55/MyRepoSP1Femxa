@@ -16,10 +16,24 @@ public class Vale2 {
 	
 	
 	
-	public static void main(String[] args) {
+	public static void main(String[] args)
+	{
 		
 		System.out.println("Buenos d�as");
 
 	}
+	
+	public static void metodoDuque ()
+	{
+		System.out.println("Buenas tardes Valeriano");		
+	}
 
+	public static String unirCadenas (String cadena1, String cadena2)
+	{
+		String frase_junta = null;
+		
+		frase_junta = cadena1 + cadena2;
+		
+		return frase_junta;
+	}
 }
