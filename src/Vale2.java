@@ -25,11 +25,15 @@ public class Vale2 {
 
 	}
 	
-	public static void metodoDuqueYSusana ()
+	public static void metodoDuqueYAnaYSusana ()
 	{
 		System.out.println("Buenas tardes Valeriano");
+		System.out.println("When the night has come...");
 		System.out.println("¿Que qué hizo el rayo? Volver a perder :(");
 		System.out.println("Qué realista eres, SUSAN");
+		System.out.println("Qué pesimista eres, SUSAN");
+		System.out.println("Viva Honduras!");
+
 	}
 
 	public static String unirCadenas (String cadena1, String cadena2)
