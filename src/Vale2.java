@@ -35,7 +35,7 @@ public class Vale2 {
 		frase_junta = cadena1 + cadena2;
 		cadena2.replace(" ","");
 		cadena1=cadena1.replace(" ", "");
-//cambios mezclados		
+//por zaineb 
 
 		return frase_junta;
 	}
