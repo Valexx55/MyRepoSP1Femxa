@@ -1,5 +1,5 @@
 
-public class Nira {
+public class NiraBethencourt {
 
 	/* Nira Bethencourt */
 	
