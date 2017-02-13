@@ -34,6 +34,9 @@ public class Vale2 {
 		
 		frase_junta = cadena1 + cadena2;
 		cadena2.replace(" ","");
+		cadena1=cadena1.replace(" ", "");
+//cambios mezclados		
+
 		return frase_junta;
 	}
 }
