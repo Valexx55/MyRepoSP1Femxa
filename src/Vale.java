@@ -7,4 +7,5 @@ public class Vale {
 	 * NOMBRE Y PRIMER APELLIDO
 	 */
 
+	
 }

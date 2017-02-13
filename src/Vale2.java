@@ -32,10 +32,7 @@ public class Vale2 {
 	{
 		String frase_junta = null;
 		
-		String juntarcadena1 = cadena1.replace (" ","");
-		String juntarcadena2 = cadena2.replace (" ","");
-		
-		frase_junta = juntarcadena1 + juntarcadena2;
+		frase_junta = cadena1 + cadena2;
 		
 		return frase_junta;
 	}
