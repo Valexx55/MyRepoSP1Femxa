@@ -1,5 +1,5 @@
 
-public class Iulian {
+public class IulianAnghel {
 
 	/**
 	 * Clase de Iulian Constantin Anghel
