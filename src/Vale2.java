@@ -33,6 +33,7 @@ public class Vale2 {
 		String frase_junta = null;
 		
 		frase_junta = cadena1 + cadena2;
+		cadena1=cadena1.replace(" ", "");
 		
 		return frase_junta;
 	}
