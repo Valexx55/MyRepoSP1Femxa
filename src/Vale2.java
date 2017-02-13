@@ -6,6 +6,9 @@ public class Vale2 {
 		int nletrassaludo = 0;
 		
 		System.out.println("Hola " + nombre);
+		for (int i = 0; i < nombre.length(); i++) {
+			nletrassaludo++;
+		}
 		
 		return nletrassaludo;
 	}
@@ -14,7 +17,7 @@ public class Vale2 {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("Buenos días");
+		System.out.println("Buenos dï¿½as");
 
 	}
 
