@@ -23,9 +23,10 @@ public class Vale2 {
 
 	}
 	
-	public static void metodoDuque ()
+	public static void metodoDuqueYAna ()
 	{
-		System.out.println("Buenas tardes Valeriano");		
+		System.out.println("Buenas tardes Valeriano");
+		System.out.println("When the night has come...");
 	}
 
 	public static String unirCadenas (String cadena1, String cadena2)
