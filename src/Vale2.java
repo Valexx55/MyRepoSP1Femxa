@@ -23,9 +23,10 @@ public class Vale2 {
 
 	}
 	
-	public static void metodoDuque ()
+	public static void metodoDuqueYSusana ()
 	{
-		System.out.println("Buenas tardes Valeriano");		
+		System.out.println("Buenas tardes Valeriano");
+		System.out.println("¿Que qué hizo el rayo? Volver a perder :(");
 	}
 
 	public static String unirCadenas (String cadena1, String cadena2)
