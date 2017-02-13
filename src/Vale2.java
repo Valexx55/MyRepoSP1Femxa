@@ -29,10 +29,11 @@ public class Vale2 {
 	{
 		System.out.println("Buenas tardes Valeriano");
 		System.out.println("When the night has come...");
-		System.out.println("¿Que qué hizo el rayo? Volver a perder :(");
-		System.out.println("Qué realista eres, SUSAN");
-		System.out.println("Qué pesimista eres, SUSAN");
+		System.out.println("ï¿½Que quï¿½ hizo el rayo? Volver a perder :(");
+		System.out.println("Quï¿½ realista eres, SUSAN");
+		System.out.println("Quï¿½ pesimista eres, SUSAN");
 		System.out.println("Viva Honduras!");
+		System.out.println("Viva el Betis!");
 
 	}
 
@@ -43,7 +44,7 @@ public class Vale2 {
 		frase_junta = cadena1 + cadena2;
 		cadena2.replace(" ","");
 		cadena1=cadena1.replace(" ", "");
-//Ni VOLANDO VOY Ni qué pasa aquí...HOLA MUNDO
+//Ni VOLANDO VOY Ni quï¿½ pasa aquï¿½...HOLA MUNDO
 		return frase_junta;
 	}
 }
