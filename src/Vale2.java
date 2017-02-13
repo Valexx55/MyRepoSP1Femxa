@@ -1,3 +1,5 @@
+import com.sun.org.apache.xalan.internal.xsltc.compiler.sym;
+
 
 public class Vale2 {
 	
@@ -27,6 +29,7 @@ public class Vale2 {
 	{
 		System.out.println("Buenas tardes Valeriano");
 		System.out.println("¿Que qué hizo el rayo? Volver a perder :(");
+		System.out.println("Qué realista eres, SUSAN");
 	}
 
 	public static String unirCadenas (String cadena1, String cadena2)
