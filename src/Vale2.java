@@ -9,6 +9,7 @@ public class Vale2 {
 		for (int i = 0; i < nombre.length(); i++) {
 			nletrassaludo++;
 		}
+		//GRACIAS ISA! :)
 		
 		return nletrassaludo;
 	}
