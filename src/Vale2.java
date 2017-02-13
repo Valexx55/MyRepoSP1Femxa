@@ -21,5 +21,12 @@ public class Vale2 {
 		System.out.println("Buenos d�as");
 
 	}
+	
+	public static void metodoDuque (){
+		
+		System.out.println("Buenas tardes Valeriano");
+		
+		
+	}
 
 }
