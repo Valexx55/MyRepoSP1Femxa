@@ -33,6 +33,7 @@ public class Vale2 {
 		System.out.println("Qué realista eres, SUSAN");
 		System.out.println("Qué pesimista eres, SUSAN");
 		System.out.println("Viva Honduras!");
+		System.out.println("Viva el Betis!");
 
 	}
 
