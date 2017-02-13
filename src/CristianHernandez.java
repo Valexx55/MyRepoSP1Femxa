@@ -1,4 +1,3 @@
 
 public class CristianHernandez {
-	/*Cristian Hernandez del caso*/  
-}
+	/*Cristian Hernandez del caso*/   
